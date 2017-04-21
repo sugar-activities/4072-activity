@@ -1,0 +1,9 @@
+[Activity]
+name = Frotz
+activity_version = 4
+bundle_id = vu.lux.olpc.Frotz
+exec = sugar-activity frotz.FrotzActivity
+icon = activity-frotz
+mime_types = application/x-zmachine
+license = GPLv3+
+host_version = 1

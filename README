@@ -1,0 +1,3 @@
+Frotz.activity is a simple front end to the classic interactive fiction interpreter frotz on the XO laptop.  Frotz.activity is licensed under the GNU General Public License version 3 (see the file COPYING for details). 
+
+The actual interactive interpreter, Frotz, is licensed under the GNU General Public License version 2.  This xo bundle includes only a binary (version 2.43), but you can obtain the source from here: http://frotz.homeunix.org/frotz/
